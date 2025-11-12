@@ -1,17 +1,39 @@
 [
-  {
-    "name": "Daily Motivation",
-    "specialty": "Small progress is still progress. Keep moving forward!",
-    "image": "https://example.com/motivation.png"
+{
+    "name": "Redwan Sir",
+    "specialty": "Physics 1st paper.",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Redwan%20Sir.jpg"
   },
   {
-    "name": "Dr. Jane Doe",
-    "specialty": "Pediatrician - Caring for children with love and expertise.",
-    "image": "https://example.com/jane_doe.png"
+    "name": "Delwar Sir",
+    "specialty": "Chemistry",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Delwar%20Sir.jpg"
   },
   {
-    "name": "Dr. John Smith",
+    "name": "Fahad Sir",
+    "specialty": "Higher math 1st & 2nd paper.",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Fahad%20Hossain%20Sir.jpg"
+  },
+  {
+    "name": "Aman Hasan Sir",
+    "specialty": "Chemistry 1st & 2nd paper.",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Hasan%20Aman%20Sir.jpg"
+  },{
+    "name": "Junnurain Sir",
+    "specialty": "Biology 1st & 2nd paper.",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Junnurain%20Khan.jpg"
+  },{
+    "name": "Niaz Sir",
+    "specialty": "Physics 2nd paper.",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Niaz%20Sir.jpg"
+  },{
+    "name": "Redwan Sir",
     "specialty": "Neurologist - Specialist in brain and nerve disorders.",
-    "image": "https://example.com/john_smith.png"
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Redwan%20Sir.jpg"
+  },
+{
+    "name": "Durbar Roy Sir",
+    "specialty": "English.",
+    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Durbar%20Roy%20Sir.jpg"
   }
 ]
