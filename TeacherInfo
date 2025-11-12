@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Daily Motivation",
+    "specialty": "Small progress is still progress. Keep moving forward!",
+    "image": "https://example.com/motivation.png"
+  },
+  {
+    "name": "Dr. Jane Doe",
+    "specialty": "Pediatrician - Caring for children with love and expertise.",
+    "image": "https://example.com/jane_doe.png"
+  },
+  {
+    "name": "Dr. John Smith",
+    "specialty": "Neurologist - Specialist in brain and nerve disorders.",
+    "image": "https://example.com/john_smith.png"
+  }
+]
