@@ -1,39 +1,44 @@
 [
-{
+  {
     "name": "Redwan Sir",
-    "specialty": "Physics 1st paper.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Redwan%20Sir.jpg"
+    "subject": "Physics 1st Paper",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Redwan%20Sir.jpg",
+    "description": "Expert in Physics 1st Paper with years of teaching experience."
   },
   {
     "name": "Delwar Sir",
-    "specialty": "Chemistry",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Delwar%20Sir.jpg"
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Delwar%20Sir.jpg",
+    "description": "Renowned Chemistry teacher for HSC students."
   },
   {
     "name": "Fahad Sir",
-    "specialty": "Higher math 1st & 2nd paper.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Fahad%20Hossain%20Sir.jpg"
+    "subject": "Higher Math 1st & 2nd Paper",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Fahad%20Hossain%20Sir.jpg",
+    "description": "Specialist in Higher Mathematics, makes complex problems easy."
   },
   {
-    "name": "Aman Hasan Sir",
-    "specialty": "Chemistry 1st & 2nd paper.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Hasan%20Aman%20Sir.jpg"
-  },{
-    "name": "Junnurain Sir",
-    "specialty": "Biology 1st & 2nd paper.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Junnurain%20Khan.jpg"
-  },{
-    "name": "Niaz Sir",
-    "specialty": "Physics 2nd paper.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Niaz%20Sir.jpg"
-  },{
-    "name": "Redwan Sir",
-    "specialty": "Neurologist - Specialist in brain and nerve disorders.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Redwan%20Sir.jpg"
+    "name": "Hasan Aman Sir",
+    "subject": "Chemistry 1st & 2nd Paper",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Hasan%20Aman%20Sir.jpg",
+    "description": "Top Chemistry teacher, known for crystal clear explanation."
   },
-{
+  {
+    "name": "Junnurain Khan Sir",
+    "subject": "Biology 1st & 2nd Paper",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Junnurain%20Khan.jpg",
+    "description": "Biology expert with excellent diagram teaching skills."
+  },
+  {
+    "name": "Niaz Sir",
+    "subject": "Physics 2nd Paper",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Niaz%20Sir.jpg",
+    "description": "Master of Physics 2nd Paper, favorite among students."
+  },
+  {
     "name": "Durbar Roy Sir",
-    "specialty": "English.",
-    "image": "https://github.com/junayed7878/RedwansTeachers/blob/main/Durbar%20Roy%20Sir.jpg"
+    "subject": "English",
+    "image": "https://raw.githubusercontent.com/junayed7878/RedwansTeachers/main/Durbar%20Roy%20Sir.jpg",
+    "description": "English language and literature specialist for HSC."
   }
 ]
